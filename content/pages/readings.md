@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of reading assignments for the course.
+  Students are expected to come to class prepared to discuss the assigned articles.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -83,7 +85,7 @@ Noise in gene expression II
 {{< tdopen >}}
 
 
-Bengtsson, M., A. Stahlberg, P. Rorsman, and M. Kubista. "Gene Expression Profiling in Single Cells from the Pancreatic Islets of Langerhans Reveals Lognormal Distribution of mRNA Levels." _Genome Res_ 15 (2005): 1388-92. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://genome.cshlp.org/content/15/10/1388.full.pdf))
+Bengtsson, M., A. Stahlberg, P. Rorsman, and M. Kubista. "Gene Expression Profiling in Single Cells from the Pancreatic Islets of Langerhans Reveals Lognormal Distribution of mRNA Levels." _Genome Res_ 15 (2005): 1388-92. ([PDF](http://genome.cshlp.org/content/15/10/1388.full.pdf))
 
 Ko, M. S., H. Nakauchi, and N. Takahashi. "[The Dose Dependence of Glucocorticoid-inducible Gene Expression Results from Changes in the Number of Transcriptionally Active Templates](http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=551995)." _EMBO_ 9 (1990): 2835-2842.
 
@@ -155,7 +157,7 @@ Chemotaxis I
 {{< tdopen >}}
 
 
-Purcell, E. M. "Life at Low Reynolds Number." _Am J Phys_ 45 (1977): 3-11. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.damtp.cam.ac.uk/user/gold/pdfs/purcell.pdf))
+Purcell, E. M. "Life at Low Reynolds Number." _Am J Phys_ 45 (1977): 3-11. ([PDF](http://www.damtp.cam.ac.uk/user/gold/pdfs/purcell.pdf))
 
 Berg, H. C., and E. M. Purcell. "[Physics of Chemoreception](http://dx.doi.org/10.1016/S0006-3495(77)85544-6)." _Biophys J_ 20 (1977): 193-219.
 
